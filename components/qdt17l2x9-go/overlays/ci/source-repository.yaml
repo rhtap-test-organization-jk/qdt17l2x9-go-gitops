@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: qdt17l2x9-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/qdt17l2x9-go
